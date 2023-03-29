@@ -1,0 +1,159 @@
+/* header starts */
+.header{
+    width: 1336px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.head1{
+    width: 716px;
+    margin: 0 auto;
+}
+.head2{
+    width: 716px;
+    margin: 0 auto;
+    margin-top: 4px;
+    margin-bottom: 16px;
+}
+.head3{
+    width: 760px;
+    margin: 0 auto;
+}
+.h1{
+    font-size: 54px;
+    text-align: center;
+    font-family: 'Inter';
+}
+.h2{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Inter';
+}
+.p1{
+    font-size: 20px;
+    color: #5F6980;
+    text-align: center;
+}
+/* section starts */
+.conteiner{
+    width: 1336px;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+.block1{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 310px;
+    border: 1px solid #EAECF0;
+}
+.block2{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.parent{
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    margin-bottom: 16px;
+}
+.child1{
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child2{
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child3{
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h3{
+    font-size: 18px;
+    font-family: 'Inter';
+}
+.p2{
+    font-size: 14px;
+    margin-top: 4px;
+}
+.p3{
+    font-size: 14px;
+    color: #5F6980;
+    margin-top: 8px;
+}
+.footer{
+    width: 1654px;
+    background-color: #53535354;
+    margin: 0 auto;
+}
+.footer-main{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer-block01{
+    width: 318px;
+    margin-top: 108px;
+}
+.p4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 307px;
+    margin-top: 32px;
+}
+.group{
+    width: 104px;
+    margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-block02{
+    width: 136px;
+    margin-top: 108px;
+}
+.h4{
+    font-size: 20px;
+
+}
+ul{
+    font-style: 14px;
+    margin-top: 71px;
+    
+}
+li{
+    margin-top: 15px;
+}
+.frame1{
+    background-color: #054A68;
+    width: 80px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 59px;
+}
+.footer-block04{
+    margin-top: 108px;
+}
+.footer-block03{
+    margin-top: 108px;
+}
